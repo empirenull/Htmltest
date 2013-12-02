@@ -3,7 +3,9 @@ body{
 	margin:50px;
 	/*font-family: Arial;*/
 	/*font-family: 'Open Sans';*/
-	font-family: 'Segoe UI';
+	/*font-family: 'Segoe UI';*/
+	/*font-family: 'Noto Sans', sans-serif;*/
+	font-family: 'PT Sans', sans-serif;
 }
 h1 {
 font-size: 21px;
